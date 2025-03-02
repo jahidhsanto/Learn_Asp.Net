@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\View_State\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|d:\\sql\\view_state\\view_state\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|solutionrelative:view_state\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|d:\\sql\\view_state\\view_state\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|solutionrelative:view_state\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|d:\\sql\\view_state\\view_state\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|solutionrelative:view_state\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|d:\\sql\\view_state\\view_state\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37814E81-D417-42DF-9287-FA500FF22906}|View_State\\View_State.csproj|solutionrelative:view_state\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\View_State\\View_State\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "View_State\\WebForm2.aspx.cs",
+              "ToolTip": "D:\\SQL\\View_State\\View_State\\WebForm2.aspx.cs",
+              "RelativeToolTip": "View_State\\WebForm2.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:37:31.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\SQL\\View_State\\View_State\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "View_State\\WebForm2.aspx",
+              "ToolTip": "D:\\SQL\\View_State\\View_State\\WebForm2.aspx",
+              "RelativeToolTip": "View_State\\WebForm2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-02T17:36:51.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\View_State\\View_State\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "View_State\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\SQL\\View_State\\View_State\\WebForm1.aspx.cs",
+              "RelativeToolTip": "View_State\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:24:13.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\SQL\\View_State\\View_State\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "View_State\\WebForm1.aspx",
+              "ToolTip": "D:\\SQL\\View_State\\View_State\\WebForm1.aspx",
+              "RelativeToolTip": "View_State\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-02T17:22:36.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
