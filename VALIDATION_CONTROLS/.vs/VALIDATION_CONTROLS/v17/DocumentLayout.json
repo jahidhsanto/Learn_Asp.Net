@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\VALIDATION_CONTROLS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F363C3CA-BB03-4F11-992D-8C6BB9B6C466}|VALIDATION_CONTROLS\\VALIDATION_CONTROLS.csproj|D:\\SQL\\VALIDATION_CONTROLS\\validation_controls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F363C3CA-BB03-4F11-992D-8C6BB9B6C466}|VALIDATION_CONTROLS\\VALIDATION_CONTROLS.csproj|solutionrelative:validation_controls\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F363C3CA-BB03-4F11-992D-8C6BB9B6C466}|VALIDATION_CONTROLS\\VALIDATION_CONTROLS.csproj|d:\\sql\\validation_controls\\validation_controls\\validation_form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F363C3CA-BB03-4F11-992D-8C6BB9B6C466}|VALIDATION_CONTROLS\\VALIDATION_CONTROLS.csproj|solutionrelative:validation_controls\\validation_form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F363C3CA-BB03-4F11-992D-8C6BB9B6C466}|VALIDATION_CONTROLS\\VALIDATION_CONTROLS.csproj|D:\\SQL\\VALIDATION_CONTROLS\\validation_controls\\validation_form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F363C3CA-BB03-4F11-992D-8C6BB9B6C466}|VALIDATION_CONTROLS\\VALIDATION_CONTROLS.csproj|solutionrelative:validation_controls\\validation_form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VALIDATION_FORM.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\VALIDATION_CONTROLS\\VALIDATION_CONTROLS\\VALIDATION_FORM.aspx.cs",
+              "RelativeDocumentMoniker": "VALIDATION_CONTROLS\\VALIDATION_FORM.aspx.cs",
+              "ToolTip": "D:\\SQL\\VALIDATION_CONTROLS\\VALIDATION_CONTROLS\\VALIDATION_FORM.aspx.cs",
+              "RelativeToolTip": "VALIDATION_CONTROLS\\VALIDATION_FORM.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:25:48.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SQL\\VALIDATION_CONTROLS\\VALIDATION_CONTROLS\\Web.config",
+              "RelativeDocumentMoniker": "VALIDATION_CONTROLS\\Web.config",
+              "ToolTip": "D:\\SQL\\VALIDATION_CONTROLS\\VALIDATION_CONTROLS\\Web.config",
+              "RelativeToolTip": "VALIDATION_CONTROLS\\Web.config",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T15:13:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VALIDATION_FORM.aspx",
+              "DocumentMoniker": "D:\\SQL\\VALIDATION_CONTROLS\\VALIDATION_CONTROLS\\VALIDATION_FORM.aspx",
+              "RelativeDocumentMoniker": "VALIDATION_CONTROLS\\VALIDATION_FORM.aspx",
+              "ToolTip": "D:\\SQL\\VALIDATION_CONTROLS\\VALIDATION_CONTROLS\\VALIDATION_FORM.aspx",
+              "RelativeToolTip": "VALIDATION_CONTROLS\\VALIDATION_FORM.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-02T14:58:11.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

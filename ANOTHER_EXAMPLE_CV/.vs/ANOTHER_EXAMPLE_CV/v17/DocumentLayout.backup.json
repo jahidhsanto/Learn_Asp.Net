@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\ANOTHER_EXAMPLE_CV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{957973C0-E62E-4E25-84DF-B28F66C38AFD}|ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV.csproj|d:\\sql\\another_example_cv\\another_example_cv\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957973C0-E62E-4E25-84DF-B28F66C38AFD}|ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV.csproj|solutionrelative:another_example_cv\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957973C0-E62E-4E25-84DF-B28F66C38AFD}|ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV.csproj|d:\\sql\\another_example_cv\\another_example_cv\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{957973C0-E62E-4E25-84DF-B28F66C38AFD}|ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV.csproj|solutionrelative:another_example_cv\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "ANOTHER_EXAMPLE_CV\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\SQL\\ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV\\WebForm1.aspx.cs",
+              "RelativeToolTip": "ANOTHER_EXAMPLE_CV\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:51:59.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\SQL\\ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "ANOTHER_EXAMPLE_CV\\WebForm1.aspx",
+              "ToolTip": "D:\\SQL\\ANOTHER_EXAMPLE_CV\\ANOTHER_EXAMPLE_CV\\WebForm1.aspx*",
+              "RelativeToolTip": "ANOTHER_EXAMPLE_CV\\WebForm1.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-02T16:44:26.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
