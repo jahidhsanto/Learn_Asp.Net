@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\Query_String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "Query_String\\WebForm2.aspx.cs",
+              "ToolTip": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm2.aspx.cs",
+              "RelativeToolTip": "Query_String\\WebForm2.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:09:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Query_String\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Query_String\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:07:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "Query_String\\WebForm2.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm2.aspx",
+              "RelativeToolTip": "Query_String\\WebForm2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T17:02:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Query_String\\WebForm1.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\Query_String\\Query_String\\WebForm1.aspx",
+              "RelativeToolTip": "Query_String\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T17:02:35.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
