@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|d:\\sql\\asp.net\\login_form_asp\\login_form_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\Web.config",
+              "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\Web.config",
+              "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\Web.config",
+              "RelativeToolTip": "LOGIN_FORM_ASP\\Web.config",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-03T17:39:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LOGIN.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\LOGIN.aspx",
+              "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\LOGIN.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\LOGIN.aspx",
+              "RelativeToolTip": "LOGIN_FORM_ASP\\LOGIN.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T17:35:29.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
