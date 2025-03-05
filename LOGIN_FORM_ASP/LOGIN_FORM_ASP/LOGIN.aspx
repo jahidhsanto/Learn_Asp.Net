@@ -13,8 +13,19 @@
 
         table{
             margin: auto;
-            width: 300px;
+            width: 513px;
             border: 5px black ridge;
+        }
+        .auto-style3 {
+            text-align: center;
+            font-size: 30px;
+            height: 46px;
+        }
+        .auto-style4 {
+            height: 46px;
+        }
+        .link{
+            text-align: center;
         }
     </style>
 </head>
@@ -35,14 +46,19 @@
                 <tr>
                     <td>PASSWORD</td>
                     <td>
-                        <asp:TextBox ID="PassTextBox" runat="server"></asp:TextBox>
+                        <asp:TextBox ID="PassTextBox" runat="server" TextMode="Password"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="PassTextBox" Display="Dynamic" ErrorMessage="Please Enter Password" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
                     </td>
                 </tr>
                 <tr>
-                    <td class="auto-style2">&nbsp;</td>
-                    <td>
+                    <td class="auto-style3"></td>
+                    <td class="auto-style4">
                         <asp:Button ID="LoginButton" runat="server" Text="LOGIN" OnClick="LoginButton_Click" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="link" colspan="2">
+                        <a href="REGISTER.aspx">Not Registered Yet? Click Here</a>
                     </td>
                 </tr>
             </table>

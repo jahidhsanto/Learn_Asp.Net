@@ -6,7 +6,6 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-//using System.Data.SqlClient;
 
 namespace LOGIN_FORM_ASP
 {
@@ -21,13 +20,26 @@ namespace LOGIN_FORM_ASP
         protected void LoginButton_Click(object sender, EventArgs e)
         {
 			SqlConnection con = new SqlConnection(cs);
-			string query = "select * from login where username = @user and password = @pass";
+			string query = "select * from signup where username = @user and password = @pass";
 			SqlCommand cmd = new SqlCommand(query, con);
 			cmd.Parameters.AddWithValue("@user", UserTextBox.Text);
 			cmd.Parameters.AddWithValue("@pass", PassTextBox.Text);
 			con.Open();
-			cmd.ExecuteReader();
-			con.Close(); 
+			SqlDataReader dr = cmd.ExecuteReader();
+
+            if (dr.HasRows)
+			{
+                // After successful login, you can set the session and redirect
+                Session["user"] = UserTextBox.Text;
+				//Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('Login Successful')</script>");
+				Response.Redirect("DASHBOARD.aspx");
+			}
+			else
+			{
+                // If login fails, display an error message
+                Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('Login Failed')</script>");
+            }
+            con.Close(); 
         }
     }
 }
