@@ -120,6 +120,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
+    <Content Include="Forms\AddEmployeeForm.aspx" />
     <Content Include="Forms\Form01.aspx" />
     <Content Include="Forms\Form02.aspx" />
     <Content Include="Global.asax" />
@@ -217,6 +218,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddEmployeeForm.aspx.cs">
+      <DependentUpon>AddEmployeeForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\AddEmployeeForm.aspx.designer.cs">
+      <DependentUpon>AddEmployeeForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="Forms\Form01.aspx.cs">
       <DependentUpon>Form01.aspx</DependentUpon>
