@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SQL\\MASTER_PAGE_DEMO\\",
+  "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|d:\\sql\\master_page_demo\\master_page_demo\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|solutionrelative:master_page_demo\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|d:\\sql\\master_page_demo\\master_page_demo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|solutionrelative:master_page_demo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|d:\\sql\\master_page_demo\\master_page_demo\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\master_page_demo\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|solutionrelative:master_page_demo\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|d:\\sql\\master_page_demo\\master_page_demo\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|d:\\sql\\asp.net\\master_page_demo\\master_page_demo\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|solutionrelative:master_page_demo\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\master_page_demo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|solutionrelative:master_page_demo\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\master_page_demo\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CE630F33-75BB-4685-B94C-874F892D18AE}|MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO.csproj|solutionrelative:master_page_demo\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -26,28 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Style.css",
-              "DocumentMoniker": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Css\\Style.css",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Css\\Style.css",
               "RelativeDocumentMoniker": "MASTER_PAGE_DEMO\\Css\\Style.css",
-              "ToolTip": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Css\\Style.css",
+              "ToolTip": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Css\\Style.css",
               "RelativeToolTip": "MASTER_PAGE_DEMO\\Css\\Style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-02T14:43:58.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T14:43:58.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContactPage.aspx",
-              "DocumentMoniker": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\ContactPage.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\ContactPage.aspx",
               "RelativeDocumentMoniker": "MASTER_PAGE_DEMO\\ContactPage.aspx",
-              "ToolTip": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\ContactPage.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\ContactPage.aspx",
               "RelativeToolTip": "MASTER_PAGE_DEMO\\ContactPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -56,24 +55,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Default.aspx",
-              "DocumentMoniker": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Default.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Default.aspx",
               "RelativeDocumentMoniker": "MASTER_PAGE_DEMO\\Default.aspx",
-              "ToolTip": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Default.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\Default.aspx",
               "RelativeToolTip": "MASTER_PAGE_DEMO\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-02T14:31:46.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T14:31:46.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MasterPage.Master",
-              "DocumentMoniker": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\MasterPage.Master",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\MasterPage.Master",
               "RelativeDocumentMoniker": "MASTER_PAGE_DEMO\\MasterPage.Master",
-              "ToolTip": "D:\\SQL\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\MasterPage.Master",
+              "ToolTip": "D:\\SQL\\Asp.Net\\MASTER_PAGE_DEMO\\MASTER_PAGE_DEMO\\MasterPage.Master",
               "RelativeToolTip": "MASTER_PAGE_DEMO\\MasterPage.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

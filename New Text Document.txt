@@ -1,0 +1,25 @@
+PASSWORD VALIDATION EXPRESSION CODE
+(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$
+
+
+FOR JQUERY ENABLE(Past in Web.config file under configuration):
+<appSettings>
+	<add key="validationSettings:UnobtrusivevalidationMode" value="None" />
+</appSettings>
+
+
+Connection with database(Past in Web.config file under configuration):
+<connectionStrings>
+    <add name="MyDbContext" connectionString="Server=YOUR_SERVER_NAME;Database=MyDatabase;Integrated Security=True;" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+
+
+<connectionStrings>
+	<add name="dbcs2" connectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\SQL\Asp.Net\LOGIN_FORM_ASP\LOGIN_FORM_ASP\App_Data\MyDatabase.mdf;Integrated Security=True" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+
+	<connectionStrings>
+		<add name="StoreDB"
+				connectionString="Server=JAHIDHSANTO\SQLEXPRESS;Database=StoreInventoryDB;Trusted_Connection=True;TrustServerCertificate=True;"
+				providerName="System.Data.SqlClient" />
+	</connectionStrings>

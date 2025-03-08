@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\REPEATER_CONTROL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEF4D3-BF18-4320-B06A-80900E5490CC}|REPEATER_CONTROL\\REPEATER_CONTROL.csproj|d:\\sql\\asp.net\\repeater_control\\repeater_control\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38CEF4D3-BF18-4320-B06A-80900E5490CC}|REPEATER_CONTROL\\REPEATER_CONTROL.csproj|solutionrelative:repeater_control\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SQL_ASP.NET_REPEATER_CONTROL_REPEATER_CONTROL_APP_DATA_REPEATER_DB.MDF/True/SqlTable/dbo.Emp.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38CEF4D3-BF18-4320-B06A-80900E5490CC}|REPEATER_CONTROL\\REPEATER_CONTROL.csproj|d:\\sql\\asp.net\\repeater_control\\repeater_control\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38CEF4D3-BF18-4320-B06A-80900E5490CC}|REPEATER_CONTROL\\REPEATER_CONTROL.csproj|solutionrelative:repeater_control\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\REPEATER_CONTROL\\REPEATER_CONTROL\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "REPEATER_CONTROL\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\SQL\\Asp.Net\\REPEATER_CONTROL\\REPEATER_CONTROL\\WebForm1.aspx.cs",
+              "RelativeToolTip": "REPEATER_CONTROL\\WebForm1.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:19:00.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Emp [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SQL_ASP.NET_REPEATER_CONTROL_REPEATER_CONTROL_APP_DATA_REPEATER_DB.MDF/True/SqlTable/dbo.Emp.sql",
+              "ToolTip": "dbo.Emp [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-05T21:17:40.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\REPEATER_CONTROL\\REPEATER_CONTROL\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "REPEATER_CONTROL\\WebForm1.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\REPEATER_CONTROL\\REPEATER_CONTROL\\WebForm1.aspx",
+              "RelativeToolTip": "REPEATER_CONTROL\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T21:10:59.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

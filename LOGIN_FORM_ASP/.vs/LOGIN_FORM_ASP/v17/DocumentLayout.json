@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|d:\\sql\\asp.net\\login_form_asp\\login_form_asp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|d:\\sql\\asp.net\\login_form_asp\\login_form_asp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|d:\\sql\\asp.net\\login_form_asp\\login_form_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,23 +27,11 @@
       "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SQL_ASP.NET_LOGIN_FORM_ASP_LOGIN_FORM_ASP_APP_DATA_MYDATABASE.MDF/True/SqlTable/dbo.signup.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|d:\\sql\\asp.net\\login_form_asp\\login_form_asp\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\login_form_asp\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9E57F037-DEF6-4870-B835-09CCAC2BC7C9}|LOGIN_FORM_ASP\\LOGIN_FORM_ASP.csproj|solutionrelative:login_form_asp\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SQL_ASP.NET_LOGIN_FORM_ASP_LOGIN_FORM_ASP_APP_DATA_MYDATABASE.MDF/True/SqlTable/dbo.signup.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,47 +41,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.signup [Data]",
+              "DocumentIndex": 7,
+              "Title": "dbo.signup.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SQL_ASP.NET_LOGIN_FORM_ASP_LOGIN_FORM_ASP_APP_DATA_MYDATABASE.MDF/True/SqlTable/dbo.signup.sql",
-              "ToolTip": "dbo.signup [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__SQL_ASP.NET_LOGIN_FORM_ASP_LOGIN_FORM_ASP_APP_DATA_MYDATABASE.MDF/True/SqlTable/dbo.signup.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-05T08:59:30.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T08:59:30.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "REGISTER.aspx.cs",
               "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\REGISTER.aspx.cs",
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\REGISTER.aspx.cs",
               "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\REGISTER.aspx.cs",
               "RelativeToolTip": "LOGIN_FORM_ASP\\REGISTER.aspx.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAewCYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAewCoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T22:58:45.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T22:58:45.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "REGISTER.aspx",
               "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\REGISTER.aspx",
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\REGISTER.aspx",
               "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\REGISTER.aspx",
               "RelativeToolTip": "LOGIN_FORM_ASP\\REGISTER.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-03-04T21:25:24.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "DASHBOARD.aspx",
               "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\DASHBOARD.aspx",
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\DASHBOARD.aspx",
@@ -89,18 +87,17 @@
               "RelativeToolTip": "LOGIN_FORM_ASP\\DASHBOARD.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-04T20:14:39.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:14:39.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\Web.config",
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\Web.config",
               "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\Web.config",
               "RelativeToolTip": "LOGIN_FORM_ASP\\Web.config",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwBIAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-03-03T17:39:29.4Z",
               "EditorCaption": ""
@@ -113,27 +110,25 @@
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\DASHBOARD.aspx.cs",
               "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\DASHBOARD.aspx.cs",
               "RelativeToolTip": "LOGIN_FORM_ASP\\DASHBOARD.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:15:03.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:15:03.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LOGIN.aspx.cs",
               "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\LOGIN.aspx.cs",
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\LOGIN.aspx.cs",
               "ToolTip": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\LOGIN.aspx.cs",
               "RelativeToolTip": "LOGIN_FORM_ASP\\LOGIN.aspx.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAawCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:40:33.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:40:33.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "LOGIN.aspx",
               "DocumentMoniker": "D:\\SQL\\Asp.Net\\LOGIN_FORM_ASP\\LOGIN_FORM_ASP\\LOGIN.aspx",
               "RelativeDocumentMoniker": "LOGIN_FORM_ASP\\LOGIN.aspx",

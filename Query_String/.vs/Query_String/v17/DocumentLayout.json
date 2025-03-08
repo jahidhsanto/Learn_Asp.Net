@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|D:\\SQL\\Asp.Net\\Query_String\\query_string\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|D:\\SQL\\Asp.Net\\Query_String\\query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|d:\\sql\\asp.net\\query_string\\query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|D:\\SQL\\Asp.Net\\Query_String\\query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{26EDAFE7-AC4D-454C-B780-DB11DA321F84}|Query_String\\Query_String.csproj|solutionrelative:query_string\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Query_String\\WebForm2.aspx.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T17:09:03.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T17:09:03.727Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Query_String\\WebForm2.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-03T17:02:51.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T17:02:51.331Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Query_String\\WebForm1.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-03T17:02:35.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T17:02:35.241Z"
             }
           ]
         }
