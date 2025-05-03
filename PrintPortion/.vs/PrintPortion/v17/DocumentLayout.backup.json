@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\PrintPortion\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B62E16-F371-4F90-8F6B-C1A47BA7EBEA}|PrintPortion\\PrintPortion.csproj|d:\\sql\\asp.net\\printportion\\printportion\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C7B62E16-F371-4F90-8F6B-C1A47BA7EBEA}|PrintPortion\\PrintPortion.csproj|solutionrelative:printportion\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B62E16-F371-4F90-8F6B-C1A47BA7EBEA}|PrintPortion\\PrintPortion.csproj|d:\\sql\\asp.net\\printportion\\printportion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C7B62E16-F371-4F90-8F6B-C1A47BA7EBEA}|PrintPortion\\PrintPortion.csproj|solutionrelative:printportion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\PrintPortion\\PrintPortion\\Contact.aspx",
+              "RelativeDocumentMoniker": "PrintPortion\\Contact.aspx",
+              "ToolTip": "D:\\SQL\\Asp.Net\\PrintPortion\\PrintPortion\\Contact.aspx",
+              "RelativeToolTip": "PrintPortion\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-02T18:35:06.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\PrintPortion\\PrintPortion\\Web.config",
+              "RelativeDocumentMoniker": "PrintPortion\\Web.config",
+              "ToolTip": "D:\\SQL\\Asp.Net\\PrintPortion\\PrintPortion\\Web.config",
+              "RelativeToolTip": "PrintPortion\\Web.config",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-02T18:34:45.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
