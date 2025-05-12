@@ -1,0 +1,41 @@
+🔄 1. UpdatePanel — defines the portion of the page to refresh
+
+<asp:UpdatePanel ID="UpdatePanel_X" runat="server" UpdateMode="Conditional">
+    <ContentTemplate>
+        <!-- content to refresh -->
+    </ContentTemplate>
+</asp:UpdatePanel>
+
+🎯 2. Triggers — define which control and event will cause that UpdatePanel to refresh
+<Triggers>
+    <asp:AsyncPostBackTrigger ControlID="btnSave" EventName="Click" />
+</Triggers>
+
+This means when btnSave is clicked, this panel (UpdatePanel_X) will refresh.
+
+🔁 3. Each UpdatePanel is isolated — you can have multiple panels on a page, and each can respond to specific events independently.
+
+✅ Panel A only updates when ddlChallanID changes:
+<asp:UpdatePanel ID="UpdatePanel_Challan" runat="server">
+    <ContentTemplate>
+        <asp:DropDownList ID="ddlChallanItemsID" ... />
+    </ContentTemplate>
+    <Triggers>
+        <asp:AsyncPostBackTrigger ControlID="ddlChallanID" EventName="SelectedIndexChanged" />
+    </Triggers>
+</asp:UpdatePanel>
+
+✅ Panel B only updates when btnAddToReceiving is clicked:
+<asp:UpdatePanel ID="UpdatePanel_ReceivingGrid" runat="server">
+    <ContentTemplate>
+        <asp:GridView ID="gvReceivingItems" ... />
+    </ContentTemplate>
+    <Triggers>
+        <asp:AsyncPostBackTrigger ControlID="btnAddToReceiving" EventName="Click" />
+    </Triggers>
+</asp:UpdatePanel>
+
+
+✅ Tip:
+Use ScriptManager on the page (usually near the top) to enable partial postbacks:
+<asp:ScriptManager ID="ScriptManager1" runat="server" />

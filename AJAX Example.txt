@@ -1,0 +1,53 @@
+✅ How to Update a Single UpdatePanel with Multiple Triggers
+Example: Multiple Triggers for One UpdatePanel
+
+<asp:UpdatePanel ID="UpdatePanel_ReceivingGrid" runat="server" UpdateMode="Conditional">
+    <ContentTemplate>
+        <!-- Content to update, e.g., a GridView -->
+        <asp:GridView ID="gvReceivingItems" runat="server" ... />
+    </ContentTemplate>
+    <Triggers>
+        <!-- First trigger: Button click -->
+        <asp:AsyncPostBackTrigger ControlID="btnAddToReceiving" EventName="Click" />
+        
+        <!-- Second trigger: Dropdown selection change -->
+        <asp:AsyncPostBackTrigger ControlID="ddlChallanID" EventName="SelectedIndexChanged" />
+
+        <!-- Third trigger: RadioButtonList selection change -->
+        <asp:AsyncPostBackTrigger ControlID="rblReceiveType" EventName="SelectedIndexChanged" />
+    </Triggers>
+</asp:UpdatePanel>
+
+<!-- Controls that trigger the update -->
+<asp:Button ID="btnAddToReceiving" runat="server" Text="Add to Receiving" OnClick="btnAddToReceiving_Click" />
+<asp:DropDownList ID="ddlChallanID" runat="server" OnSelectedIndexChanged="ddlChallanID_SelectedIndexChanged" AutoPostBack="true" />
+<asp:RadioButtonList ID="rblReceiveType" runat="server" OnSelectedIndexChanged="rblReceiveType_SelectedIndexChanged" AutoPostBack="true" />
+
+
+
+
+==================================================================================================================================================
+
+✅ Example: One Button → Updates Two Panels
+<!-- Panel 1: Receiving Grid -->
+<asp:UpdatePanel ID="UpdatePanel_ReceivingGrid" runat="server" UpdateMode="Conditional">
+    <ContentTemplate>
+        <asp:GridView ID="gvReceivingItems" runat="server" ... />
+    </ContentTemplate>
+    <Triggers>
+        <asp:AsyncPostBackTrigger ControlID="btnAddToReceiving" EventName="Click" />
+    </Triggers>
+</asp:UpdatePanel>
+
+<!-- Panel 2: Summary Area -->
+<asp:UpdatePanel ID="UpdatePanel_Summary" runat="server" UpdateMode="Conditional">
+    <ContentTemplate>
+        <asp:Label ID="lblSummary" runat="server" Text="Summary Info..." />
+    </ContentTemplate>
+    <Triggers>
+        <asp:AsyncPostBackTrigger ControlID="btnAddToReceiving" EventName="Click" />
+    </Triggers>
+</asp:UpdatePanel>
+
+<!-- The trigger control -->
+<asp:Button ID="btnAddToReceiving" runat="server" Text="Add to Receiving" OnClick="btnAddToReceiving_Click" />
