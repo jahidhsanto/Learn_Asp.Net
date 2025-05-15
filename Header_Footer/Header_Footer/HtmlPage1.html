@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Printable A4 with Repeating Header/Footer</title>
+
+    <!-- Include Paged.js from CDN -->
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+
+    <style>
+        @page {
+            size: A4;
+            margin: 120px 50px; /* Top/Bottom, Left/Right */
+        }
+
+        /* Running elements for header/footer */
+        @page {
+            @top-center {
+                content: element(header);
+            }
+
+            @bottom-center {
+                content: element(footer);
+            }
+        }
+
+        body {
+            font-family: sans-serif;
+        }
+
+        /* Define header and footer containers as reusable elements */
+        header {
+            position: running(header);
+            height: 100px;
+            text-align: center;
+        }
+
+        footer {
+            position: running(footer);
+            height: 100px;
+            text-align: center;
+        }
+
+            header img,
+            footer img {
+                height: 100px;
+                width: auto;
+            }
+
+        .content {
+            margin: 0 auto;
+            max-width: 800px;
+        }
+
+        .page-section {
+            page-break-after: always;
+        }
+    </style>
+</head>
+<body>
+    <!-- Repeatable Header -->
+    <header>
+        <img src="images/header.jpg" alt="Header" />
+    </header>
+    <!-- Repeatable Footer -->
+    <footer>
+        <img src="images/Footer.jpg" alt="Footer" />
+    </footer>
+
+    <!-- Content -->
+    <div class="content">
+        <div class="page-section">
+            <p>Page 1 content goes here...</p>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae
+                sunt in optio porro dolorum. Inventore earum laboriosam autem officiis
+                totam rem dolorem atque quidem voluptatibus. Voluptas, obcaecati
+                molestias. Nisi velit eveniet veritatis facere excepturi beatae
+                aliquid quia ipsam pariatur. Aperiam fugiat expedita consequatur.
+                Fugiat, cum nemo distinctio, sapiente fugit exercitationem ipsam
+                consequuntur, labore omnis vero laudantium corrupti excepturi ipsa
+                deserunt. Dolorum perferendis architecto, asperiores sint aut placeat
+                voluptatem expedita nemo quas deserunt repellat, veniam minima enim.
+                Asperiores aliquam iusto quia enim tempora earum cupiditate atque,
+                nisi totam debitis hic at et eum accusantium dicta ipsa, alias beatae
+                iste neque. Deleniti?Lorem ipsum dolor sit amet consectetur,
+                adipisicing elit. Voluptatem atque eveniet delectus dignissimos quis
+                quia, quibusdam architecto veritatis accusamus eum ducimus optio
+                repellat pariatur mollitia omnis in molestias suscipit? Modi commodi
+                nostrum ipsa eius, earum maxime ipsum placeat deleniti dolorum
+                officiis quibusdam pariatur recusandae, assumenda nam corporis
+                explicabo unde error quidem autem excepturi ratione adipisci cumque
+                delectus. Quas optio eaque ab laboriosam laudantium fugit accusantium
+                illo at eum non a, eveniet, nobis iure eligendi porro numquam tempora
+                voluptatum, dolores atque neque adipisci? Illo sit magni magnam
+                inventore quisquam deserunt eius sed numquam laboriosam, optio omnis
+                alias laudantium odit dolor assumenda voluptas dicta. Reiciendis
+                laborum quo fugit impedit placeat eius vel a officiis illo dolorum
+                praesentium autem eveniet error quasi, iusto quisquam voluptatibus
+                ullam, beatae magnam rem soluta, iure dolore. Aliquam provident sit
+                ipsam aliquid fuga, tempora porro fugit ratione optio tempore libero
+                quis quisquam odio fugiat vel assumenda et similique nihil delectus
+                officiis totam adipisci cupiditate quia culpa. Repellendus provident
+                nostrum esse cupiditate ratione alias iusto sed eligendi culpa in at
+                qui tempora excepturi laboriosam vero ipsa repudiandae, minima
+                exercitationem unde blanditiis quam asperiores dicta magni optio? Quos
+                quas, quaerat quam eos inventore nostrum recusandae eius laudantium
+                dolorem nobis esse eaque velit veritatis fugit iure, blanditiis
+                doloremque aspernatur quidem? Quibusdam aliquam vitae omnis
+                exercitationem quae quasi facilis placeat voluptatibus a molestiae
+                distinctio, tempora non magni dolorem dolor eligendi optio quam
+                voluptas et excepturi ullam officia animi dicta? Accusantium
+                consequuntur fugiat architecto, nemo illo voluptas doloribus deserunt
+                cumque aliquam perferendis qui molestiae aspernatur itaque officiis
+                nostrum ea, autem odio veniam? Cumque quas sequi tempora odit odio ea
+                quos facilis provident eaque voluptatum unde sapiente animi architecto
+                consectetur, mollitia molestiae qui alias totam itaque eligendi at,
+                debitis necessitatibus. Consequatur dolores enim inventore ipsum
+                obcaecati doloremque earum excepturi dolore numquam culpa assumenda,
+                ab accusamus eveniet dolorem repellendus voluptatem aperiam id minima
+                consectetur repellat perferendis distinctio necessitatibus! Eius, quam
+                veniam? Eaque sed voluptatem expedita pariatur voluptate labore quasi
+                tenetur alias cum cupiditate in illo, nam accusamus, ab consequatur
+                iusto dolorum? Molestias quos cum quisquam ut beatae pariatur dolor
+                corrupti sed suscipit, corporis dolore nemo incidunt dolores possimus
+                eum voluptates, commodi vero ullam quaerat. Dolor odit praesentium
+                ullam, numquam molestias incidunt, unde aliquid aspernatur cumque
+                iusto atque maxime quidem at optio officiis illum ratione fugiat.
+                Delectus praesentium adipisci quam asperiores ab unde sed fugiat
+                porro? Unde reprehenderit, recusandae iste cupiditate consectetur
+                earum pariatur rerum error repellat, possimus nam voluptas quibusdam
+                suscipit itaque. Sed, corporis asperiores? Dignissimos ducimus
+                repellat totam cupiditate expedita provident consectetur commodi ad
+                consequatur. Molestiae iusto, voluptatum, illo, obcaecati dolore
+                necessitatibus quae ut amet tenetur magni eveniet quia soluta porro
+                recusandae sit eius sunt nobis rem ratione quos cum ipsum repudiandae?
+                Quia odit vero iusto a inventore in, ducimus nobis quisquam excepturi
+                optio id, laborum sit commodi minus cum suscipit deleniti autem hic.
+                Enim sapiente cupiditate dolores exercitationem, ex labore iusto nam
+                incidunt, expedita eum perspiciatis iste, deleniti dicta soluta non
+                quae repudiandae voluptas aspernatur suscipit nobis assumenda
+                similique? Dignissimos doloribus placeat officiis?
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+        </div>
+        <div class="page-section">
+            <p>Page 2 content goes here...</p>
+            <p>More content to demonstrate repeated headers and footers.</p>
+        </div>
+        <!-- Add more .page-section blocks for more pages -->
+    </div>
+</body>
+</html>

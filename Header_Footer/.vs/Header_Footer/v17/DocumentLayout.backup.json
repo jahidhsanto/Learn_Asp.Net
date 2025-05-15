@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQL\\Asp.Net\\Header_Footer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF94AB9-ADF7-4883-963B-231019408FB0}|Header_Footer\\Header_Footer.csproj|d:\\sql\\asp.net\\header_footer\\header_footer\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAF94AB9-ADF7-4883-963B-231019408FB0}|Header_Footer\\Header_Footer.csproj|solutionrelative:header_footer\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlPage1.html",
+              "DocumentMoniker": "D:\\SQL\\Asp.Net\\Header_Footer\\Header_Footer\\HtmlPage1.html",
+              "RelativeDocumentMoniker": "Header_Footer\\HtmlPage1.html",
+              "ToolTip": "D:\\SQL\\Asp.Net\\Header_Footer\\Header_Footer\\HtmlPage1.html",
+              "RelativeToolTip": "Header_Footer\\HtmlPage1.html",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-14T14:25:12.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
